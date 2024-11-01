@@ -1,0 +1,17 @@
+div.xdebug-output-handler
+{
+    margin:5px; 
+    border:2px black solid; 
+    background-color:white;
+}
+
+p.xdebug-output-handler
+{
+    white-space: pre;
+    font-family: "Courier New", Courier, monospace
+}
+
+h3.xdebug-output-handler
+{
+    
+}
